@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Description>Append top level domains to URLs being built with XpressUrl.</Description>
+    <Version>1.0.0</Version>
+    <Authors>JonnyOrman</Authors>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <ProjectUrl>https://github.com/JonnyOrman/XpressUrl</ProjectUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="XpressUrl" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
